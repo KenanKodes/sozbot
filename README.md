@@ -1,4 +1,4 @@
-### Telegram Söz Tap Oyunu @NİHAT_33 
+Əkmə peysər görürsən Forkdu Əkmə pesi
 📝
 ## Deploy to Heroku
 
